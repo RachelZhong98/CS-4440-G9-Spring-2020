@@ -33,7 +33,7 @@
   - **Querying & Visualizing**:
     1. To create and run queries, go to *Queries* tab and create a new query. You can just copy and paste our queries from *Query.docx* here into *Mongo Query Box* and click *Save and Run* now
     2. Navigating to the dashboard, you can now add visualizations to it by dragging a widget (generated from executing the query in previous step) into the dashboard and selecting the type of visualization you want by clicking the three dots at the top right and choose *Analyze*
-    3. Using this [link](https://www.knowi.com/d/cIbLJXLFpR90plRTfFAb78kGisvjhviiSrEK1DC81BQMEie), you can see the visualizations we created, and the specific parameters we used to set up the visualizations. Each visualization has a title and a number, corresponding to the ones listed in the query document as well as the last slide of our presentation
+    3. Using this [link](https://www.knowi.com/d/cIbLJXLFpR90plRTfFAb78kGisvjhviiSrEK1DC81BQMEie), you can see the visualizations we created, and the specific parameters we used to set up the visualizations. Each visualization has a title and a number, corresponding to the ones listed in the query document as well as the last slide of our presentation. In case the link expires after our free trial ends, we have also provided a pdf of all the visualizaions here named *Visualization.pdf*.
 
 ### Code Documentation and References: 
 
@@ -46,6 +46,7 @@
 | shortStage3.csv    | Small portion of the data used (1000 data point) |
 | preprocessing.py | Script for preprocessing | 
 | Query.docx | Doc that contains all the queries and their brief descriptions corresponding to the visualizations on the dashboard | 
+| Visualization.pdf | A pdf of all the visualizations we created | 
 
 
 
